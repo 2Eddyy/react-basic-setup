@@ -1,0 +1,15 @@
+.side-bar {
+    background-color: #fff;
+    width: 270px;
+    position: fixed;
+    margin-top: 40px;
+    height: 535px;
+    z-index: 1;
+    transition: 2s;
+}
+.list li{
+    padding-top: 15px;
+}
+.list{
+    padding-top:15px ;
+}

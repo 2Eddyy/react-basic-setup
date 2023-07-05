@@ -1,0 +1,16 @@
+.footer{
+    font-family: 'Montserrat', sans-serif;
+}
+.footer-body{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    z-index: 250;
+    margin-top: 90px;
+    background-color: rgb(239, 238, 255);
+    justify-content: space-between;
+}
+.footer-body p{
+    padding-left: 30px;
+    padding-right: 30px;
+}
